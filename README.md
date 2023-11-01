@@ -25,7 +25,7 @@ gen_server:cast(Pid, welcome).
 subscriber:start_link(Port, Username).
 ```
 
-## How to build and run server
+## How to build and run other versions
 
 0) `cd ` to one of the folders
 1) Build `erl -make`
